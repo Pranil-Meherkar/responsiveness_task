@@ -6,12 +6,12 @@ body {
 
 .heading {
   font-size: 50px;
-  margin: 50px 0;
+  padding: 50px 0;
 }
 
 .container {
   display: flex;
-  margin: 50px 0;
+  padding: 50px 0;
   gap: 50px 40px;
   flex-wrap: wrap;
   justify-content: center;
@@ -28,7 +28,7 @@ body {
 }
 
 .content {
-  margin: 20px 40px;
+  padding: 20px 40px;
   height: 80%;
 }
 
@@ -46,7 +46,7 @@ body {
 .name {
   font-weight: bold;
   font-size: 20px;
-  margin: 30px 0 5px 0;
+  padding: 30px 0 5px 0;
 }
 
 @media only screen and (max-width: 425px) {
